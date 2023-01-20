@@ -6,9 +6,7 @@ import lombok.*;
 import javax.persistence.*;
 import java.util.Set;
 
-/**
- * Created by jt on 6/13/17.
- */
+
 import javax.persistence.*;
 import java.util.Set;
 
